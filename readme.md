@@ -12,7 +12,7 @@
  
 [Curriculo](https://github.com/Manuzz64/Prova-de-Aptidao-Profissional---Manuel-Boucas/blob/main/Cv.pdf)
 
-[Curriculo em inglês](https://github.com/Manuzz64/Prova-de-Aptidao-Profissional---Manuel-Boucas/blob/main/CvEng.pdf
+[Curriculo em inglês](https://github.com/Manuzz64/Prova-de-Aptidao-Profissional---Manuel-Boucas/blob/main/CvEng.pdf)
 
 ## 01. Apresentar o desafio
 Eu sou o Manuel Bouças, tenho 16 anos, do curso de Gestão e Programação de Sistemas Informáticos.
