@@ -9,5 +9,5 @@
 > 11º ano
 > 
 > 24/27 
-
- ![alt text](cv.pdf)
+[Curriculo](https://github.com/Manuzz64/Prova-de-Aptidao-Profissional---Manuel-Boucas/blob/main/Cv.pdf)
+[Curriculo em inglês](https://github.com/Manuzz64/Prova-de-Aptidao-Profissional---Manuel-Boucas/blob/main/CvEng.pdf)
